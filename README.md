@@ -18,7 +18,7 @@ AI辅助视频剪辑工具
 直接 python detect.py 即可
 
 # Demo
-+  demo.mp4 ： 样例输入视频 【github100m限制，自行访问网盘下载 https://pan.quark.cn/s/ca75a17519f2】
++  demo.mp4 ： 样例输入视频 （github100m限制，自行访问网盘下载 https://pan.quark.cn/s/ca75a17519f2）
 
 +  demo_output_video.mp4： 样例输出完整视频
 
