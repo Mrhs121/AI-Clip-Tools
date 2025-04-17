@@ -23,3 +23,5 @@ AI辅助视频剪辑工具
 +  demo_output_video.mp4： 样例输出完整视频
 
 +  output_clips ： 样例输出包含人物的视频小片段
+
+<img width="1700" alt="截屏2025-04-18 00 19 18" src="https://github.com/user-attachments/assets/1095b7c5-ef9f-4f74-b9e0-57e73d8a427f" />
